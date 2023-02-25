@@ -1,0 +1,60 @@
+{"source": "Echantillon DFR 01", "target": "DFR Sample 01"}
+{"source": "Ce fichier contient un certain nombre de répétitions exactes et de phrases similaires pour illustrer comment DFR peut reconnaître et traiter les similitudes en fonction du Min. la valeur du taux de correspondance et l'utilisation des fichiers Reference et FuzzyVar.", "target": "This file contains a number of exact repetitions and similar sentences to illustrate how DFR can recognize and process similarities based on the Min. match rate value and the use of Reference and FuzzyVar files."}
+{"source": "Procédure de test de base :", "target": "Basic test procedure:"}
+{"source": "Chargez le fichier dans votre environnement de traduction.", "target": "Load the file into your translation environment."}
+{"source": "Exportez-le au format XLIFF bilingue.", "target": "Export it as XLIFF bilingual."}
+{"source": "Utilisez DFR pour traiter le fichier XLIFF.", "target": "Use DFR to process the XLIFF file."}
+{"source": "Réimportez le fichier XLIFF \"fuzzyrep\" dans votre environnement de traduction.", "target": "Import the “fuzzyrep” XLIFF file back into your translation environment."}
+{"source": "Répétez le processus avec différents paramètres DFR pour observer leurs effets de verrouillage.", "target": "Repeat the process with different DFR settings to observe their locking effects."}
+{"source": "Pour plus de détails, consultez le guide DFR.", "target": "For more details, see the DFR guide."}
+{"source": "Phrases similaires", "target": "Similar sentences"}
+{"source": "La pluie en Espagne tombe principalement sur la plaine.", "target": "The rain in Spain falls mainly on the plain."}
+{"source": "La pluie en France tombe principalement sur la plaine.", "target": "The rain in France falls mainly on the plain."}
+{"source": "La pluie en Italie tombe principalement sur la plaine.", "target": "The rain in Italy falls mainly on the plain."}
+{"source": "La pluie en Allemagne tombe principalement sur la plaine.", "target": "The rain in Germany falls mainly on the plain."}
+{"source": "La pluie en Espagne est tombée principalement sur la plaine.", "target": "The rain in Spain fell mainly on the plain."}
+{"source": "La neige en Espagne tombe principalement sur la plaine.", "target": "The snow in Spain falls mainly on the plain."}
+{"source": "La neige en Espagne tombe principalement sur la plaine.", "target": "The snow in Spain falls mostly on the plain."}
+{"source": "La pluie en Espagne tombe principalement dans les vallées.", "target": "The rain in Spain falls mainly in the valleys."}
+{"source": "En Espagne, la pluie tombe principalement sur la plaine.", "target": "In Spain, the rain falls mainly on the plain."}
+{"source": "Variantes de formats", "target": "Format variations"}
+{"source": "La pluie en Espagne tombe principalement sur la plaine.", "target": "The rain in Spain falls mainly on the plain."}
+{"source": "La pluie en France tombe principalement en plaine !", "target": "The rain in France falls mainly on the plain!"}
+{"source": "La pluie en ITALIE tombe principalement sur la plaine.", "target": "The rain in ITALY falls mainly on the plain."}
+{"source": "Le raaain en Allemagne tombe principalement sur la plaine.", "target": "The raaain in Germany falls mainly on the plain."}
+{"source": "Répétitions exactes", "target": "Exact repetitions"}
+{"source": "La pluie en Espagne tombe principalement sur la plaine.", "target": "The rain in Spain falls mainly on the plain."}
+{"source": "La pluie en France tombe principalement sur la plaine.", "target": "The rain in France falls mainly on the plain."}
+{"source": "Phrases similaires", "target": "Similar sentences"}
+{"source": "L'Espagne a une population d'environ 46,57 millions d'habitants et une superficie totale de 505 990 kilomètres carrés.", "target": "Spain has a population of approximately 46.57 million and a total area of 505 990 square kilometres."}
+{"source": "La France a une population d'environ 67,12 millions d'habitants et une superficie totale de 643 801 kilomètres carrés.", "target": "France has a population of approximately 67.12 million and a total area of 643 801 square kilometres."}
+{"source": "L'Italie a une population d'environ 60,59 millions d'habitants pour une superficie totale de 301 338 kilomètres carrés.", "target": "Italy has a population of approximately 60.59 million for a total area of 301 338 square kilometres."}
+{"source": "L'Allemagne a une population d'environ 82,79 millions d'habitants et une superficie totale de 357 386 km2.", "target": "Germany has a population of approximately 82.79 million and a total area of 357 386 square km."}
+{"source": "Format + variantes de texte", "target": "Format + text variations"}
+{"source": "L'Espagne a une population de près de 50 millions d'habitants et une superficie totale d'environ 500 000 kilomètres carrés.", "target": "Spain has a population of almost 50 million and a total area of around 500 000 square kilometres."}
+{"source": "La France a une population totale d'environ 67,12 millions d'habitants et une superficie de 643 801 kilomètres carrés.", "target": "France has a total population of approximately 67.12 million and an area of 643 801 square kilometres."}
+{"source": "De vraies répétitions", "target": "Real repetitions"}
+{"source": "L'Italie a une population d'environ 60,59 millions d'habitants et une superficie totale de 301 338 kilomètres carrés.", "target": "Italy has a population of approximately 60.59 million and a total area of 301 338 square kilometres."}
+{"source": "L'Allemagne a une population d'environ 82,79 millions d'habitants et une superficie totale de 357 386 kilomètres carrés.", "target": "Germany has a population of approximately 82.79 million and a total area of 357 386 square kilometres."}
+{"source": "Phrases similaires (variables)", "target": "Similar sentences (variables)"}
+{"source": "Le KVR XT001A répond aux besoins des professionnels les plus exigeants en proposant 4 formats de sortie.", "target": "The KVR XT001A meets the needs of the most demanding professionals by providing 4 output formats."}
+{"source": "Le PBR DF320X répond aux besoins des professionnels les plus exigeants en proposant 8 formats de sortie.", "target": "The PBR DF320X meets the needs of the most demanding professionals by providing 8 output formats."}
+{"source": "Le JMG DF530W répond aux besoins des professionnels les plus exigeants en proposant 16 formats de sortie.", "target": "The JMG DF530W meets the needs of the most demanding professionals by providing 16 output formats."}
+{"source": "ABC960i répond aux besoins des professionnels les plus exigeants en proposant 32 formats de sortie.", "target": "ABC960i meets the needs of the most demanding professionals by providing 32 output formats."}
+{"source": "ABC960i Standard répond aux besoins des professionnels les plus exigeants en proposant 64 formats de sortie.", "target": "ABC960i Standard meets the needs of the most demanding professionals by providing 64 output formats."}
+{"source": "ABC960i Advanced répond aux besoins des professionnels les plus exigeants en proposant 128 formats de sortie.", "target": "ABC960i Advanced meets the needs of the most demanding professionals by providing 128 output formats."}
+{"source": "ABC960i Advanced Pro répond aux besoins des professionnels les plus exigeants en proposant 256 formats de sortie.", "target": "ABC960i Advanced Pro meets the needs of the most demanding professionals by providing 256 output formats."}
+{"source": "Kevrenn ABC960i Advanced Pro répond aux besoins des professionnels les plus exigeants en proposant 512 formats de sortie.", "target": "Kevrenn ABC960i Advanced Pro meets the needs of the most demanding professionals by providing 512 output formats."}
+{"source": "Variantes de formats", "target": "Format variations"}
+{"source": "Le KVR XT001A répond aux besoins des professionnels les plus exigeants en proposant 4 formats de sortie.", "target": "The KVR XT001A meets the needs of the most demanding professionals by providing 4 output formats."}
+{"source": "Le PBR DF320X répond aux besoins des professionnels les plus exigeants en proposant 8 formats de sortie !!!", "target": "The PBR DF320X meets the needs of the most demanding professionals by providing 8 output formats!!!"}
+{"source": "Le JMG DF530W répond aux besoins des professionnels les plus exigeants en proposant 99 formats de sortie.", "target": "The JMG DF530W meets the needs of the most demanding professionals by providing 99 output formats."}
+{"source": "De vraies répétitions", "target": "Real repetitions"}
+{"source": "Le KVR XT001A répond aux besoins des professionnels les plus exigeants en proposant 4 formats de sortie.", "target": "The KVR XT001A meets the needs of the most demanding professionals by providing 4 output formats."}
+{"source": "Le PBR DF320X répond aux besoins des professionnels les plus exigeants en proposant 8 formats de sortie.", "target": "The PBR DF320X meets the needs of the most demanding professionals by providing 8 output formats."}
+{"source": "Kevrenn ABC960i Advanced Pro répond aux besoins des professionnels les plus exigeants en proposant 512 formats de sortie.", "target": "Kevrenn ABC960i Advanced Pro meets the needs of the most demanding professionals by providing 512 output formats."}
+{"source": "Répétitions du dossier de référence (déjà en traduction)", "target": "Repetitions from the reference file (already in translation)"}
+{"source": "Le fichier doit être au format xliff valide.", "target": "The file must be in valid xliff format."}
+{"source": "Il n'a pas besoin d'être entièrement édité, ni même traduit.", "target": "It does not have to be fully edited, or even translated."}
+{"source": "DFR 2.2 ne l'utilisera que pour protéger les éventuelles répétitions qui viendront de ce fichier vers les autres documents.", "target": "DFR 2.2 will only use it to protect any repetitions that will come from this file to the other documents."}
+{"source": "DFR 2.2 ne l'utilisera que pour protéger les éventuelles répétitions qui viendront de ce fichier vers les autres documents.", "target": "DFR 2.2 will only use it to protect any repetitions that will come from this file to the other documents."}
