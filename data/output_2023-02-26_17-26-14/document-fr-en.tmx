@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4"><header srclang="en" datatype="unknown"><prop type="targetlang">fr</prop></header><body>
+
+<tu>
+ <tuv lang="fr"><seg>:!! Echantillon DFR 01</seg></tuv>
+ <tuv lang="en"><seg>DFR Sample 01</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Ce fichier contient un certain nombre de répétitions exactes et de phrases similaires pour illustrer comment DFR peut reconnaître et traiter les similitudes en fonction du Min. la valeur du taux de correspondance et l'utilisation des fichiers Reference et FuzzyVar.</seg></tuv>
+ <tuv lang="en"><seg>This file contains a number of exact repetitions and similar sentences to illustrate how DFR can recognize and process similarities based on the Min. match rate value and the use of Reference and FuzzyVar files.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Procédure de test de base :</seg></tuv>
+ <tuv lang="en"><seg>Basic test procedure:</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Chargez le fichier dans votre environnement de traduction.</seg></tuv>
+ <tuv lang="en"><seg>Load the file into your translation environment.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Exportez-le au format XLIFF bilingue.</seg></tuv>
+ <tuv lang="en"><seg>Export it as XLIFF bilingual.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Utilisez DFR pour traiter le fichier XLIFF.</seg></tuv>
+ <tuv lang="en"><seg>Use DFR to process the XLIFF file.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Réimportez le fichier XLIFF "fuzzyrep" dans votre environnement de traduction.</seg></tuv>
+ <tuv lang="en"><seg>Import the “fuzzyrep” XLIFF file back into your translation environment.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Répétez le processus avec différents paramètres DFR pour observer leurs effets de verrouillage.</seg></tuv>
+ <tuv lang="en"><seg>Repeat the process with different DFR settings to observe their locking effects.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Pour plus de détails, consultez le guide DFR.</seg></tuv>
+ <tuv lang="en"><seg>For more details, see the DFR guide.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Phrases similaires</seg></tuv>
+ <tuv lang="en"><seg>Similar sentences</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! La pluie en Espagne tombe principalement sur la plaine.</seg></tuv>
+ <tuv lang="en"><seg>The rain in Spain falls mainly on the plain.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! La pluie en France tombe principalement sur la plaine.</seg></tuv>
+ <tuv lang="en"><seg>The rain in France falls mainly on the plain.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! La pluie en Italie tombe principalement sur la plaine.</seg></tuv>
+ <tuv lang="en"><seg>The rain in Italy falls mainly on the plain.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! La pluie en Allemagne tombe principalement sur la plaine.</seg></tuv>
+ <tuv lang="en"><seg>The rain in Germany falls mainly on the plain.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! La pluie en Espagne est tombée principalement sur la plaine.</seg></tuv>
+ <tuv lang="en"><seg>The rain in Spain fell mainly on the plain.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! La neige en Espagne tombe principalement sur la plaine.</seg></tuv>
+ <tuv lang="en"><seg>The snow in Spain falls mainly on the plain.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! La neige en Espagne tombe principalement sur la plaine.</seg></tuv>
+ <tuv lang="en"><seg>The snow in Spain falls mostly on the plain.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! La pluie en Espagne tombe principalement dans les vallées.</seg></tuv>
+ <tuv lang="en"><seg>The rain in Spain falls mainly in the valleys.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! En Espagne, la pluie tombe principalement sur la plaine.</seg></tuv>
+ <tuv lang="en"><seg>In Spain, the rain falls mainly on the plain.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Variantes de formats</seg></tuv>
+ <tuv lang="en"><seg>Format variations</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! La pluie en Espagne tombe principalement sur la plaine.</seg></tuv>
+ <tuv lang="en"><seg>The rain in Spain falls mainly on the plain.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! La pluie en France tombe principalement en plaine !</seg></tuv>
+ <tuv lang="en"><seg>The rain in France falls mainly on the plain!</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! La pluie en ITALIE tombe principalement sur la plaine.</seg></tuv>
+ <tuv lang="en"><seg>The rain in ITALY falls mainly on the plain.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Le raaain en Allemagne tombe principalement sur la plaine.</seg></tuv>
+ <tuv lang="en"><seg>The raaain in Germany falls mainly on the plain.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Répétitions exactes</seg></tuv>
+ <tuv lang="en"><seg>Exact repetitions</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! La pluie en Espagne tombe principalement sur la plaine.</seg></tuv>
+ <tuv lang="en"><seg>The rain in Spain falls mainly on the plain.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! La pluie en France tombe principalement sur la plaine.</seg></tuv>
+ <tuv lang="en"><seg>The rain in France falls mainly on the plain.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Phrases similaires</seg></tuv>
+ <tuv lang="en"><seg>Similar sentences</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! L'Espagne a une population d'environ 46,57 millions d'habitants et une superficie totale de 505 990 kilomètres carrés.</seg></tuv>
+ <tuv lang="en"><seg>Spain has a population of approximately 46.57 million and a total area of 505 990 square kilometres.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! La France a une population d'environ 67,12 millions d'habitants et une superficie totale de 643 801 kilomètres carrés.</seg></tuv>
+ <tuv lang="en"><seg>France has a population of approximately 67.12 million and a total area of 643 801 square kilometres.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! L'Italie a une population d'environ 60,59 millions d'habitants pour une superficie totale de 301 338 kilomètres carrés.</seg></tuv>
+ <tuv lang="en"><seg>Italy has a population of approximately 60.59 million for a total area of 301 338 square kilometres.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! L'Allemagne a une population d'environ 82,79 millions d'habitants et une superficie totale de 357 386 km2.</seg></tuv>
+ <tuv lang="en"><seg>Germany has a population of approximately 82.79 million and a total area of 357 386 square km.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Format + variantes de texte</seg></tuv>
+ <tuv lang="en"><seg>Format + text variations</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! L'Espagne a une population de près de 50 millions d'habitants et une superficie totale d'environ 500 000 kilomètres carrés.</seg></tuv>
+ <tuv lang="en"><seg>Spain has a population of almost 50 million and a total area of around 500 000 square kilometres.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! La France a une population totale d'environ 67,12 millions d'habitants et une superficie de 643 801 kilomètres carrés.</seg></tuv>
+ <tuv lang="en"><seg>France has a total population of approximately 67.12 million and an area of 643 801 square kilometres.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! De vraies répétitions</seg></tuv>
+ <tuv lang="en"><seg>Real repetitions</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! L'Italie a une population d'environ 60,59 millions d'habitants et une superficie totale de 301 338 kilomètres carrés.</seg></tuv>
+ <tuv lang="en"><seg>Italy has a population of approximately 60.59 million and a total area of 301 338 square kilometres.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! L'Allemagne a une population d'environ 82,79 millions d'habitants et une superficie totale de 357 386 kilomètres carrés.</seg></tuv>
+ <tuv lang="en"><seg>Germany has a population of approximately 82.79 million and a total area of 357 386 square kilometres.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Phrases similaires (variables)</seg></tuv>
+ <tuv lang="en"><seg>Similar sentences (variables)</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Le KVR XT001A répond aux besoins des professionnels les plus exigeants en proposant 4 formats de sortie.</seg></tuv>
+ <tuv lang="en"><seg>The KVR XT001A meets the needs of the most demanding professionals by providing 4 output formats.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Le PBR DF320X répond aux besoins des professionnels les plus exigeants en proposant 8 formats de sortie.</seg></tuv>
+ <tuv lang="en"><seg>The PBR DF320X meets the needs of the most demanding professionals by providing 8 output formats.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Le JMG DF530W répond aux besoins des professionnels les plus exigeants en proposant 16 formats de sortie.</seg></tuv>
+ <tuv lang="en"><seg>The JMG DF530W meets the needs of the most demanding professionals by providing 16 output formats.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! ABC960i répond aux besoins des professionnels les plus exigeants en proposant 32 formats de sortie.</seg></tuv>
+ <tuv lang="en"><seg>ABC960i meets the needs of the most demanding professionals by providing 32 output formats.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! ABC960i Standard répond aux besoins des professionnels les plus exigeants en proposant 64 formats de sortie.</seg></tuv>
+ <tuv lang="en"><seg>ABC960i Standard meets the needs of the most demanding professionals by providing 64 output formats.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! ABC960i Advanced répond aux besoins des professionnels les plus exigeants en proposant 128 formats de sortie.</seg></tuv>
+ <tuv lang="en"><seg>ABC960i Advanced meets the needs of the most demanding professionals by providing 128 output formats.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! ABC960i Advanced Pro répond aux besoins des professionnels les plus exigeants en proposant 256 formats de sortie.</seg></tuv>
+ <tuv lang="en"><seg>ABC960i Advanced Pro meets the needs of the most demanding professionals by providing 256 output formats.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Kevrenn ABC960i Advanced Pro répond aux besoins des professionnels les plus exigeants en proposant 512 formats de sortie.</seg></tuv>
+ <tuv lang="en"><seg>Kevrenn ABC960i Advanced Pro meets the needs of the most demanding professionals by providing 512 output formats.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Variantes de formats</seg></tuv>
+ <tuv lang="en"><seg>Format variations</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Le KVR XT001A répond aux besoins des professionnels les plus exigeants en proposant 4 formats de sortie.</seg></tuv>
+ <tuv lang="en"><seg>The KVR XT001A meets the needs of the most demanding professionals by providing 4 output formats.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Le PBR DF320X répond aux besoins des professionnels les plus exigeants en proposant 8 formats de sortie !!!</seg></tuv>
+ <tuv lang="en"><seg>The PBR DF320X meets the needs of the most demanding professionals by providing 8 output formats!!!</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Le JMG DF530W répond aux besoins des professionnels les plus exigeants en proposant 99 formats de sortie.</seg></tuv>
+ <tuv lang="en"><seg>The JMG DF530W meets the needs of the most demanding professionals by providing 99 output formats.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! De vraies répétitions</seg></tuv>
+ <tuv lang="en"><seg>Real repetitions</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Le KVR XT001A répond aux besoins des professionnels les plus exigeants en proposant 4 formats de sortie.</seg></tuv>
+ <tuv lang="en"><seg>The KVR XT001A meets the needs of the most demanding professionals by providing 4 output formats.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Le PBR DF320X répond aux besoins des professionnels les plus exigeants en proposant 8 formats de sortie.</seg></tuv>
+ <tuv lang="en"><seg>The PBR DF320X meets the needs of the most demanding professionals by providing 8 output formats.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Kevrenn ABC960i Advanced Pro répond aux besoins des professionnels les plus exigeants en proposant 512 formats de sortie.</seg></tuv>
+ <tuv lang="en"><seg>Kevrenn ABC960i Advanced Pro meets the needs of the most demanding professionals by providing 512 output formats.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Répétitions du dossier de référence (déjà en traduction)</seg></tuv>
+ <tuv lang="en"><seg>Repetitions from the reference file (already in translation)</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Le fichier doit être au format xliff valide.</seg></tuv>
+ <tuv lang="en"><seg>The file must be in valid xliff format.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Il n'a pas besoin d'être entièrement édité, ni même traduit.</seg></tuv>
+ <tuv lang="en"><seg>It does not have to be fully edited, or even translated.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! DFR 2.2 ne l'utilisera que pour protéger les éventuelles répétitions qui proviendront de ce fichier vers les autres documents.</seg></tuv>
+ <tuv lang="en"><seg>DFR 2.2 will only use it to protect any repetitions that will come from this file to the other documents.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! DFR 2.2 ne l'utilisera que pour protéger les éventuelles répétitions qui proviendront de ce fichier vers les autres documents.</seg></tuv>
+ <tuv lang="en"><seg>DFR 2.2 will only use it to protect any repetitions that will come from this file to the other documents.</seg></tuv>
+</tu>
+</body></tmx>

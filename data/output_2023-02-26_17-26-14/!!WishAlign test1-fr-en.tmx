@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4"><header srclang="en" datatype="unknown"><prop type="targetlang">fr</prop></header><body>
+
+<tu>
+ <tuv lang="fr"><seg>:!! C'est la première phrase de mon document de référence.</seg></tuv>
+ <tuv lang="en"><seg>This is the first sentence from my reference document.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Il était plein d'anciennes traductions approuvées que je souhaitais pouvoir réutiliser.</seg></tuv>
+ <tuv lang="en"><seg>It was full of old approved translations that I wished to be able to re-use.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Mais, je n'ai trouvé aucun document source pour l'aligner.</seg></tuv>
+ <tuv lang="en"><seg>But, I couldn't find any source documents to align it with.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! J'ai donc utilisé wish-align pour générer rapidement une mémoire de traduction que je peux utiliser comme référence.</seg></tuv>
+ <tuv lang="en"><seg>So, I used wish-align to quickly generate a translation memory that I can use as a reference.</seg></tuv>
+</tu>
+<tu>
+ <tuv lang="fr"><seg>:!! Cette MT peut être chargée dans mon CAT comme une mémoire ordinaire ou dans un corpus de référence.</seg></tuv>
+ <tuv lang="en"><seg>This TM can be loaded in my CAT as a regular memory or in a reference corpus.</seg></tuv>
+</tu>
+</body></tmx>
