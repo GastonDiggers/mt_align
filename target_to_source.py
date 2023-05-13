@@ -1,3 +1,4 @@
+import multiprocessing
 import os
 import xml.etree.ElementTree as ET
 import argparse
@@ -58,34 +59,23 @@ def translate_xml(file_path, source_language, target_language, output_path):
 
     save_tmx_file(file_path=file_path, output_path=output_path, tmx_obj=tmx_obj, source_language=source_language, target_language=target_language)
 
-if __name__ == '__main__':
-    # Define and parse command line arguments
-    parser = argparse.ArgumentParser(description='Translate XML files using GoogleTranslator and save as TMX files in the output folder.')
-    parser.add_argument('input_folder', type=str, help='path to folder containing XML files to be translated')
-    parser.add_argument('source_language', type=str, help='source language of the XML files')
-    parser.add_argument('target_language', type=str, help='target language for the translations')
-    args = parser.parse_args()
-
-    if len(sys.argv) <3:
-        sys.exit()
-
+def translate_files(input_folder, source_language, target_language):
     # Check if input_folder exists and is a directory
-    if not os.path.exists(args.input_folder):
-        print(f"Error: {args.input_folder} does not exist.")
-        sys.exit()
-    if not os.path.isdir(args.input_folder):
-        print(f"Error: {args.input_folder} is not a directory.")
-        sys.exit()
+    if not os.path.exists(input_folder):
+        print(f"Error: {input_folder} does not exist.")
+        return
+    if not os.path.isdir(input_folder):
+        print(f"Error: {input_folder} is not a directory.")
+        return
 
     # Get a list of all the XML files in the input folder
-    data_files = [os.path.join(args.input_folder, f) for f in os.listdir(args.input_folder)]
+    data_files = [os.path.join(input_folder, f) for f in os.listdir(input_folder)]
 
     # Create the output folder if it doesn't exist
-    output_path = os.path.join(args.input_folder, f"output_{datetime.datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}")
+    output_path = os.path.join(input_folder, f"output_{datetime.datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}")
     if not os.path.exists(output_path):
         os.makedirs(output_path)
 
-    # Use multiprocessing to translate all the XML files in parallel
-    with Pool() as pool:
-        # pass source and target languages as arguments to translate_xml function
-        pool.starmap(translate_xml, [(f, args.source_language, args.target_language, output_path) for f in data_files])
+    # Translate all the XML files sequentially
+    for file_path in data_files:
+        translate_xml(file_path, source_language, target_language, output_path)
