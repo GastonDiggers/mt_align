@@ -16,6 +16,8 @@ Before running the script, you need to install the required Python libraries. Yo
 pip install -r requirements.txt
 ```
 
+You need to generate xliff files and put them all inside a folder.
+
 ### Usage
 Before running the application, ensure that Python is installed on your system and added to the PATH environment variable.
 
@@ -37,5 +39,11 @@ Note: In the generated source files, 'fake' translations are prefixed with "!! "
 Python
 GoogleTranslator from the deep_translator library
 Tkinter for the GUI
+
+## Improvements
+- Add translator selection (openAI, deepl, ...) + with API key secured
+- Insert glossary (ex: use "car" instead of "vehicule")
+- Add multiThreading to enhance translation speed
+
 ## Authors
 Gaston Guyot

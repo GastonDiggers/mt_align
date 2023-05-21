@@ -25,7 +25,7 @@ def save_tmx_file(file_path, output_path, tmx_obj, target_language, source_langu
         f.truncate()
 
 # Function to translate XML files
-def translate_xml(file_path, source_language, target_language, output_path):
+def translate_xml(file_path, source_language, target_language, output_path, pollutionText):
     # Load the XML file
     tree = ET.parse(file_path)
     root = tree.getroot()
@@ -59,7 +59,7 @@ def translate_xml(file_path, source_language, target_language, output_path):
             # Create tuv (Translation Unit Variant) with source and translated text
             tu = ET.SubElement(body, "tu")
             ET.SubElement(tu, "tuv", lang=target_language).append(
-                ET.fromstring(f"<seg>:!! {translation}</seg>"))
+                ET.fromstring(f"<seg>{pollutionText}{translation}</seg>"))
             ET.SubElement(tu, "tuv", lang=source_language).append(
                 ET.fromstring(f"<seg>{source_text}</seg>"))
 
@@ -68,7 +68,7 @@ def translate_xml(file_path, source_language, target_language, output_path):
                   source_language=source_language, target_language=target_language)
 
 # Function to translate all files in a given directory
-def translate_files(input_folder, source_language, target_language):
+def translate_files(input_folder, source_language, target_language, pollutionText):
     # Check if input_folder exists and is a directory
     if not os.path.exists(input_folder):
         print(f"Error: {input_folder} does not exist.")
@@ -89,4 +89,4 @@ def translate_files(input_folder, source_language, target_language):
 
     # Translate all the XML files sequentially
     for file_path in data_files:
-        translate_xml(file_path, source_language, target_language, output_path)
+        translate_xml(file_path, source_language, target_language, output_path, pollutionText)
