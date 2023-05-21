@@ -131,3 +131,6 @@ dmypy.json
 .pyre/
 
 .vscode/
+
+# Ignore output folders
+output_*
