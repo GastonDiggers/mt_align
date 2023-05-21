@@ -133,4 +133,4 @@ dmypy.json
 .vscode/
 
 # Ignore output folders
-# output_*
+output_*
